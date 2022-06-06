@@ -3,7 +3,6 @@
 Atividade proposta pelo **Prof. Charles Ferreira** aos alunos de **Engenharia de Computação**
 
 ## **Descrição da atividade**
----
 
 Deve ser modelado e implementado um autômato que faça a validação de atribuições. Uma
 atribuição possui a seguinte sintaxe:
@@ -38,7 +37,6 @@ Os tokens são representados pelas seguintes expressões regulares:
 • pv: ‘;’
 ```
 ## Como rodar o programa?
----
 
 ```
 python3 run.py
